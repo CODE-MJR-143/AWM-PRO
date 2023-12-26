@@ -1,2 +1,2 @@
-from AWM import Main
+from NEON import Main
 Main.Menu()
